@@ -1,1 +1,1 @@
-# Hospitality Dashboard - Analysis Of Hotel Booikng Data
+# Hospitality Dashboard - Analysis Of Hotel Booking Data
