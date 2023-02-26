@@ -4,11 +4,11 @@
 Develop a Database to analyze & visualize Hotel Booking Data.
 
 ## Steps Follow to get the Insights
-a.	Build a database< br />
-b.	Develop the SQL query to join a tables< br />
-c.	Exploratory data analysis using SQL< br />
-d.	Connect Power BI to the database< br />
-e.	Create a Dashboard< br />
+a.	Build a database<br />
+b.	Develop the SQL query to join a tables<br />
+c.	Exploratory data analysis using SQL<br />
+d.	Connect Power BI to the database<br />
+e.	Create a Dashboard<br />
 f.	Summarize Findings
 
 ## Dashboard 
