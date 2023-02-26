@@ -1,7 +1,10 @@
 # Hospitality Dashboard - Analysis Of Hotel Booking Data
 
 ## Goal/Objective
-Develop a Database to analyze & visualize Hotel Booking Data.
+Develop a Database to analyze & visualize hotel booking data using Power BI to provide the answers for the below questions to the stakeholders.<br />
+-- Is our hotel revenue growing by year?<br />
+-- What trends we see in the data?
+
 
 ## Steps Follow to get the Insights
 a.	Build a database<br />
